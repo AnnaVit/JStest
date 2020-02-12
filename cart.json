@@ -2,7 +2,7 @@
     "id_product": 1009,
     "product_name": "Mango People T-shirt",
     "price": 52.00,
-    "img": "prodImg/product_1009",
+    "img": "../server/db/prodImg/product_1009.jpg",
     "category": "man",
     "quantity": 2
 },
@@ -10,7 +10,7 @@
     "id_product": 1011,
     "product_name": "Mango People T-shirt",
     "price": 52.00,
-    "img": "prodImg/product_1011",
+    "img": "../server/db/prodImg/product_1011.jpg",
     "category": "man",
     "quantity": 2
 }
